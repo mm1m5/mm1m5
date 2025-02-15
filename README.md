@@ -10,7 +10,7 @@
   - Coming Soon
 - <b>C (.NET Desktop Applications)</b>
   - Coming Soon
-- <b>Python</b>
+- <img align="left" alt="python logo | Python" width="22px" src="https://github.com/user-attachments/assets/a25a7bfc-fe72-4046-8871-0c0ab6683831" /><b>Python</b>
   - Coming Soon
 - <b>Java</b>
   - Coming Soon
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

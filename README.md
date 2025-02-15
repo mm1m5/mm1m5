@@ -15,7 +15,7 @@
 - <img align="left" alt="Java Logo" width="22px" src="https://github.com/user-attachments/assets/e735cb97-556f-425d-8bfe-f0b941ba5397"/><b>Java</b>
   - <a href="https://github.com/mm1m5/Java">Projects</a>
 - <img align="left" alt="C++ Logo" width="22px" src="https://github.com/user-attachments/assets/6c974c23-ecb7-4b0e-97c8-5cd02d989db4"/><b>C++</b>
-  - <a href="https://github.com/mm1m5/C++">Projects</a>
+  - <a href="https://github.com/mm1m5/CPlus">Projects</a>
 - <b>SQL</b>
   - <a href="https://github.com/mm1m5/SQL">Projects</a>
 - <b>PowerShell</b>

@@ -11,6 +11,7 @@
 - <img align="left" alt="C Logo" width="22px" src="https://github.com/user-attachments/assets/5836d714-184d-4647-af3b-25a8350f8c1f"/><b>C</b>
   - <a href="https://github.com/mm1m5/C">Projects</a>
 - <img align="left" alt="Python Logo" width="22px" src="https://github.com/user-attachments/assets/a25a7bfc-fe72-4046-8871-0c0ab6683831"/><b>Python</b>
+  - <a href="https://github.com/mm1m5/srt">Analytics</a>
   - <a href="https://github.com/mm1m5/Python">Projects</a>
 - <img align="left" alt="Java Logo" width="22px" src="https://github.com/user-attachments/assets/e735cb97-556f-425d-8bfe-f0b941ba5397"/><b>Java</b>
   - <a href="https://github.com/mm1m5/Java">Projects</a>

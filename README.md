@@ -10,6 +10,8 @@
   - <a href="https://github.com/mm1m5/Data">Projects</a>
 - <img align="left" alt="C Logo" width="22px" src="https://github.com/user-attachments/assets/5836d714-184d-4647-af3b-25a8350f8c1f"/><b>C</b>
   - <a href="https://github.com/mm1m5/C">Projects</a>
+- <img align="left" alt="C++ Logo" width="22px" src="https://github.com/user-attachments/assets/6c974c23-ecb7-4b0e-97c8-5cd02d989db4"/><b>C++</b>
+  - <a href="https://github.com/mm1m5/CPlus">Projects</a>
 - <img align="left" alt="Python Logo" width="22px" src="https://github.com/user-attachments/assets/a25a7bfc-fe72-4046-8871-0c0ab6683831"/><b>Python</b>
   - <a href="https://github.com/mm1m5/srt">Analytics</a>
   - <a href="https://github.com/mm1m5/Python">Projects</a>
